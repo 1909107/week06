@@ -1,5 +1,5 @@
 #include <stdio.h>
-//este convierte centígrados a farenheit, c=centígrados, f=farenheit//
+//Con este programa podemos convertir los grados centígrados a farenheit, c=centígrados, f=farenheit//
 float c ;
 float f; 
 int main(void){
