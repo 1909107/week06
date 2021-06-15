@@ -1,4 +1,5 @@
 #include <stdio.h>
+// con este programa podemos calcular el perimetro de un rectangulo//
 char line [100]; 
 int anchura;
 int altura;
